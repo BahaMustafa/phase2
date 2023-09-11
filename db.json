@@ -1,0 +1,12 @@
+{
+    "categories": [
+      { "id": 1, "name": "Food" },
+      { "id": 2, "name": "Rent" },
+      { "id": 3, "name": "Entertainment" }
+    ],
+    "expenses": [
+      { "id": 1, "categoryId": 1, "description": "Pizza", "amount": 15, "date": "2023-09-07" },
+      { "id": 2, "categoryId": 2, "description": "Monthly Rent", "amount": 1000, "date": "2023-09-01" }
+    ]
+  }
+  
